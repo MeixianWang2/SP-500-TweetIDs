@@ -48,3 +48,11 @@ Run the script. The hydrated Tweets will be stored in the same folder as the Twe
 
 python3 hydrate.py
 
+# Data Usage Agreement
+By using this dataset, you agree to remain in compliance with Twitter’s Terms of Service.
+
+# Inquiries
+
+Please read through the README to see if your question has already been addressed first.
+
+If you have technical questions about the data collection, please contact Meixian Wang at meixian[dot]2[dot]wang[at]uconn[dot]edu.
