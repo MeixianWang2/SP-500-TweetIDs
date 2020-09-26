@@ -1,0 +1,484 @@
+Index,Company ,Company Twitter 
+0,Microsoft Corporation,@Microsoft
+1,Apple Inc. ,@Apple
+2,Amazon Inc. ,@Amazon
+3,Facebook Inc. Class A ,@facebook
+4,Berkshire Hathaway Inc. Class B,
+5,JPMorgan Chase & Co. ,@jpmorgan
+6,Alphabet Inc. Class C,@Google
+7,Alphabet Inc. Class A,
+8,Johnson & Johnson,@JNJCares
+9,Visa Inc. Class A,@Visa
+10,Procter and Gamble Company,@ProcterGamble
+11,Exxon Mobil Corporation,@exxonmobil
+12,AT&T Inc. ,@ATT
+13,Bank of America Corp,@BankofAmerica
+14,Walt Disney Company ,@WaltDisneyCo
+15,UnitedHealth Group Incorporated ,@UnitedHealthGrp
+16,Intel Corporation,@intel
+17,Mastercard Incorporated Class A,@Mastercard
+18,Verizon Communications Inc. ,@verizon
+19,Home Depot Inc. ,@HomeDepot
+20,Chevron Corporation,@Chevron
+21,Merck & Co Inc.,@Merck
+22,Wells Fargo Company,@WellsFargo
+23,Pfizer Inc.,@pfizer
+24,Coca-Cola Company,@CocaCola
+25,Comcast Corporation Class A,@comcast
+26,Boeing Company ,@Boeing
+27,Cisco Systems Inc.,@Cisco
+28,PepsiCo Inc.,@pepsi
+29,walmart Inc.,@Walmart
+30,Citigroup Inc.,@Citi
+31,Medtronic Plc,@Medtronic
+32,Abbot Laboratories ,@AbbottGlobal
+33,McDonald's Corporation,@McDonalds
+34,Adobe Inc.,@Adobe
+35,salesforce.com inc.,@salesforce
+36,Amgen Inc. ,@Amgen
+37,Netflic Inc.,@netflix
+38,Bristol-Myers Squibb Company,@bmsnews
+39,Costco Wholesale Corpaoration,@Costco
+40,Philip Morris International Inc. ,@InsidePMI
+41,NVIDIA Corporation,@nvidia
+42,Accenture Plc Class A,@Accenture
+43,Thermo Fisher Scientific Inc.,@thermofisher
+44,Honeywell International Inc. ,@honeywell
+45,PayPal Holdings Inc.,@PayPal
+46,Broadcom Inc.,@Broadcom
+47,Union Pacific Corporation,@UnionPacific
+48,Oracle Corporation,@Oracle
+49,Nike Inc. Class B ,@Nike
+50,International Business Machines Corporation,@IBM
+51,NextEta Energy Inc. ,@nexteraenergy
+52,Texas Instruments Incorporated,@TXInstruments
+53,Linde plc,@Lindeplc
+54,Eli Lilly and Company ,@LillyPad
+55,Starbucks Corporation,@Starbucks
+56,CVS Health Corporation,@CVSHealth
+57,Lockheed Martin Corporation,@LockheedMartin
+58,American Tower Corporation ,
+59,3M Company ,@3M
+60,QUALCOMM Incorporated,@Qualcomm
+61,Danaher Corporation,@DanaherCareers
+62,General Electric Company,@generalelectric
+63,Altria Group INC,@AltriaNews
+64,Lowe's Companies Inc. ,@Lowes
+65,U.S.Bancorp,@usbank
+66,Fidelity National Information Services,@FISGlobal
+67,Gilead Sciences Inc.,@GileadSciences
+68,Booking Holdings Inc. ,@BookingHoldings
+69,American Express Company,@AmericanExpress
+70,United Parcel Service Inc. Class B,@UPS
+71,Caterpillar Inc. ,@CaterpillarInc
+72,Mondelez International Inc.,@MDLZ
+73,Charter Communications Inc.,@GetSpectrum
+74,Cigna Corporation,@Cigna
+75,Automatic Data Processing Inc.,@ADP
+76,CME Group Inc.,@CMEGroup
+77,Truist Financial Corp. ,@BBT
+78,TJX Companies Inc. ,@TJXCareers
+79,Anthem,@AnthemInc
+80,Goldman Sachs Group Inc.,@GoldmanSachs
+81,Chubb Limited,@Chubb
+82,Becton Dickinson and Company ,@BDandCo
+83,ConocoPhilips,@conocophillips
+84,PNC Financial Services Group Inc.,@PNCBank
+85,S&P Global Inc.,@SPGlobal
+86,Intuit Inc.,@Intuit
+87,Intuitive Surgical Inc.,@IntuitiveSurg
+88,Dominion Energy Inc. ,@DominionEnergy
+89,Duke Energy Corporation,@DukeEnergy
+90,Fiserv Inc.,@Fiserv
+91,Target Corporation,@Target
+92,Stryker Corporation,@Stryker_Jobs
+93,Southern Company,@SouthernCompany
+94,Morgan Stanley,@MorganStanley
+95,Boston Scientific Corp,@bostonsci
+96,Allergan plc,@Allergan
+97,Raytheon Company,@Raytheon
+98,Zoetis Inc.,@Zoetis
+99,Colgate-Palmolive Company ,@CP_News
+100,BlackRock Inc.,@blackrock
+101,Prologis Inc.,@Prologis
+102,Charles Schwab Corporation,@CharlesSchwab
+103,CSX Corporation,@CSX
+104,Vertex Pharmaceuticals ,@VertexPharma
+105,Mircron Tecvhnology,@MicronTech
+106,Marsh & McLennan Companies,@MMC_Global
+107,Applied Materials Inc.,@Applied4Tech
+108,Deere & Company,@JohnDeere
+109,Crown Castle International ,@CrownCastle
+110,Northrop Grumman Corporation,@northropgrumman
+111,Biogen Inc.,@biogen
+112,Shlumberger NV,
+113,Illinois Tool Works inc.,
+114,Global Payments Inc.,@GlobalPayInc
+115,Phillips 66,@Phillips66Co
+116,Air Productions and Chemicals Inc.,@airproducts
+117,Intercontinental Exchange Inc. ,@ICE_Markets
+118,Biogen Inc. ,@biogen
+119,Norfolk Southern Corporation,@nscorp
+120,Equinix Inc. ,@Equinix
+121,EOG Resources Inc.,
+122,Aon plc,@Aon_plc
+123,Humana Inc. ,@Humana
+124,Edwards Lifesciences Corporation,@EdwardsLifesci
+125,Capital One Financial Corporation,@CapitalOne
+126,Illumina Inc.,@illumina
+127,Ecolab Inc.,@Ecolab
+128,L3harris Technologies Inc,@L3HarrisTech
+129,Emerson Electric Co.,@Emerson_News
+130,Kimberly-Clark Corporation,@KCCorp
+131,American Electric Power Company Inc. ,@AEPnews
+132,Sherwin Williams Company,@SherwinWilliams
+133,Estee Lauder Companies Inc. Class A,@EsteeLauder
+134,DuPont De Nemours Inc,@DuPont_News
+135,Activision Blizzard Inc.,@ATVI_AB
+136,Waste Management,@WasteManagement
+137,General Motors Company ,@GM
+138,Simon Property Group ,@SimonPropertyGp
+139,Walgreens Boots Alliance Inc,@Walgreens
+140,American International Group Inc.,@AIGinsurance
+141,Progressive Corporation,@Progressive
+142,Exelon Corporation,@Exelon
+143,Baxter International Inc.,@baxter_intl
+144,Sysco Corporation,@Sysco
+145,Ross Stores Inc.,@Ross_Stores
+146,Bank of New Tork Mellon Corporation,@BNYMellon
+147,Lam research Corporation,@LamResearch
+148,General Dynamics Corporation,@generaldynamics
+149,Sempra Energy,@SempraEnergy
+150,Kinder Morgan Inc. ,@Kinder_Morgan
+151,Autodesk Inc. ,@autodesk
+152,Occidental Petroleum Corporation,@WeAreOxy
+153,MetLife Inc.,@MetLife
+154,Marriott International Inc. ,@MarriottIntl
+155,HCA Healthcare Inc,@HCAhealthcare
+156,Eaton Corp,@eatoncorp
+157,Moody's corporation,@MoodysInvSvc
+158,Dollar General Corporation,@DollarGeneral
+159,Dow Inc.,@DowNewsroom
+160,Aflac Incorporated,@aflac
+161,Valero Energy Corporation,@ValeroEnergy
+162,Marathon Petroleum Corporation,@MarathonPetroCo
+163,Roper Technologies Inc.,
+164,Prudential Financial Inc.,@Prudential
+165,FedEx Corporation,@FedEx
+166,Allstate Corporation,@Allstate
+167,Ford Motor Company,@Ford
+168, Travelers Companies Inc.,@Travelers
+169,Newmont Corporation,
+170,Delta Air lines inc.,@Delta
+171,Cognizant Technology Solutions,@Cognizant
+172,Welltower Inc.,
+173,O'Reilly Automotive Inc.,@oreillyauto
+174,TE Connectivity Ltd.,@TEConnectivity
+175,Xcel Energy Inc. ,@xcelenergy
+176,Constellation Brands Inc.,@cbrands
+177,Amphenol Corporation,@AmphenolPCD
+178,Electronic Arts Inc.,@EA
+179,Public Storage,@PublicStorage
+180,Johnson Controls International plc,@johnsoncontrols
+181,General Mills Inc.,@GeneralMills
+182,HP inc. ,@HP
+183,Ingersoll-Rand Plc,@IngersollRand
+184,V.F. Corporation,@VFCorp
+185,IHS Markit Ltd. ,@IHSMarkit
+186,Yum! Brands Inc.,@yumbrands
+187,ONEOK Inc.,@ONEOK
+188,Hilton Worldwide Holdings Inc.,@HiltonHotels
+189,Regeneron Pharmaceuticals Inc.,@Regeneron
+190,Zimmer Biomet Holdings Inc.,@zimmerbiomet
+191,PPG Industries Inc.,@PPG
+192,State Street Corporation,@StateStreet
+193,T. Rowe Price Group,@TRowePrice
+194,TransDigm Group Incorporated,
+195,Public Service Enterprise Group Inc.,@PSEGNews
+196,Consolidated Edison Inc.,@ConEdison
+197,AvalonBay Communities Inc.,@AvalonBay
+198,WEC Energy Group Inc,
+199,IQVIA Holdings Inc,@IQVIA_global
+200,Motorola Solutions Inc.,@MotoSolutions
+201,Equity Residential ,@EquityRes
+202,Williams Companies Inc.,@WilliamsUpdates
+203,SBA Communications Corp.,
+204,KLA Corporation,@KLAcorp
+205,Paychex Inc.,@Paychex
+206,Agilent Technologies Inc.,@Agilent
+207,Tyson Foods Inc.,@TysonFoods
+208,Eversource Energy,@EversourceCorp
+209,AutoZone Inc.,@autozone
+210,PACCAE Inc.,@paccar
+211,Parker Hamilton Corporation,
+212,Microchip Technology Inc.,@MicrochipTech
+213,eBay Inc.,@eBay
+214,Cummins Inc.,@Cummins
+215,Discover Financial Services,@Discover
+216,Willis Towers Watson Public Limited Company,@WTWcorporate
+217,Centene Corporation,@Centene
+218,McKesson Corporation,@McKesson
+219,FirstEnergy Corp.,@firstenergycorp
+220,Southwest Airlines Co.,@SouthwestAir
+221,PPL Corporation,@PPLCorp
+222,Verisk Analytics Inc.,@Verisk
+223,FleetCor Technologies Inc.,
+224,Twitter Inc.,@Twitter
+225,Monster Beverage Corporation,@MonsterEnergy
+226,Xilinx Inc.,@XilinxInc
+227,Alexion Pharmaceuticals Inc.,@AlexionPharma
+228,Stanley Black and Decker Inc.,@StanleyBlkDeckr
+229,T-Mobile Us Inc.,@TMobile
+230,DTE Energy Company ,@DTE_Energy
+231,Digital Realty Trust Inc.,@digitalrealty
+232,Realty Income Corporation,@RealtyIncome
+233,Archer-Daniels-Midland Company ,@ADMupdates
+234,IDEXX Laboratories Inc.,@IDEXX
+235,Las Vegas Sands Corp.,@LasVegasSands
+236,Entergy Corporation,@Entergy
+237,Pioneer Natural Resources Company,@PXDtweets
+238,Cerner Corporation,@Cerner
+239,Rockwell Automation Inc.,@ROKAutomation
+240,Cintas Corporation,@CintasCorp
+241,LyondellBasell Industries NV,@LyondellBasell
+242,Corning Inc.,@Corning
+243,Fortive Corp. ,@FortiveCorp
+244,Northern Trust Corporation,@NorthernTrust
+245,Aptiv PLC,@Aptiv
+246,MSCI Inc. ,@MSCI_Inc
+247,Weyerhaeuser Company,@Weyerhaeuser
+248,American Water Works Company Inc.,@amwater
+249,Fortive Corp. ,
+250,Ball Corporation,@BallCorpHQ
+251,ResMed Inc.,@ResMed
+252,Royal Caribbean Cruises Ltd.,@RoyalCaribbean
+253,ANSYS Inc.,@ANSYS
+254,AMETEK Inc.,@AMETEKInc
+255,Kroger Co. ,@kroger
+256,VeriSign Inc.,@VERISIGN
+257,Synopsys Inc.,@synopsys
+258,Hershey Company,@HersheyCompany
+259,Chipoltle Mexican Grill,@ChipotleTweets
+260,Hartford Financial Services Group Inc.,@TheHartford
+261,Ameriprise Financial Inc.,@ameriprise
+262,M&T Bank Corporation,@MandT_Bank
+263,Ventas Inc.,
+264,Dollar Tree Inc.,@DollarTree
+265,Skyworks Solutions Inc.,
+266,Synchrony Financial ,@synchrony
+267,ViacomCBS Inc. ,@ViacomCBS
+268,Corteva Inc. ,@corteva
+269,Halliburton Company,@Halliburton
+270,Fastenal Company ,@FastenalCompany
+271,Best Buy Co. Inc,@BestBuy
+272,McCormick & Company Incorporated,@McCormickCorp
+273,Fifth Third Bancorp,@FifthThird
+274,CBRE Group Inc.,@CBRE
+275,Mettler-Toledo International Inc.,@mettlertoledo
+276,Essex Property Trust Inc.,@EssexProperties
+277,Copart Inc.,@Copart
+278,Boston Properties Inc.,@bxpboston
+279,Western Digital Corporation,@westerndigital
+280,Carnival Corporation,@CarnivalPLC
+281,Clorox Company ,@CloroxCo
+282,CDW Corp.,@CDWCorp
+283,First Republic Bank,@firstrepublic
+284,Keysight Technologies Inc.,@Keysight
+285,KeyCorp,@keybank
+286,Hewlett Packard Enterprise Co.,@HP
+287,Ameren Corporation,@AmerenCorp
+288,D.R. Horton,@DRHorton
+289,Kraft Heinz Company,@KraftHeinzCo
+290,CMS Energy Corporation,@ConsumersEnergy
+291,Alexandria Real Estate Equities Inc.,
+292,Vulcan Materials Company ,
+293,Lennar Corporation,@Lennar
+294,Equifax Inc.,@Equifax
+295,Healthpeak Properties Inc.,
+296,Unisted Airlines Holdings Inc.,@united
+297,Arthur J. Gallagher & Co.,@GallagherGlobal
+298,Church & Dwight Co.,
+299,Laboratory Corporation of America ,
+300,Cooper Companies,
+301,Kellogg Company,@KelloggCompany
+302,Freeport-McMoRan Inc. ,
+303,International Paper Company,@IntlPaperCo
+304,Citizens Financial Group Inc.,@CitizensBank
+305,Maxim Integrated Products Inc.,@maximintegrated
+306,Amcor PLC,@amcorpackaging
+307,Dover Corporation,@DoverCorp
+308,Omnicom Group Inc,@Omnicom
+309,Fortinet Inc.,@Fortinet
+310,Kansas City Southern,
+311,Hess Corporation,@HessCorporation
+312,Concho Resources Inc.,
+313,MGM Resorts International ,@MGMResortsIntl
+314,Martin Marietta Materials Inc.,
+315,Evergy Inc.,
+316,Cincinnati Financial Corporation,
+317,CarMax Inc.,@CarMax
+318,Conagra Brands Inc. ,@ConagraBrands
+319,Cardinal Health Inc.,@cardinalhealth
+320,NortonLifeLock Inc.,@symantec
+321,Paycom Software Inc.,@Paycom
+322,Ulta Beauty Inc.,@ultabeauty
+323,Mid-America Apartment Communities Inc.,
+324,Akamai Technologies Inc.,@Akamai
+325,Citrix Systems Inc.,@citrix
+326,Waters Corporation,@WatersCorp
+327,Expedia Group Inc. ,@ExpediaGroup
+328,Nucor Corporation,
+329,Regions Financial Corporation,@askRegions
+330,Broadridge Financial Solutions Inc.,@Broadridge
+331,Quest Diagnostics Incorporated,@QuestDX
+332,Garmin Ltd. ,@Garmin
+333,Hologic Inc.,@Hologic
+334,Xylem Inc.,@XylemInc
+335,International Flavors and Fragrances Inc.,@IFF
+336,Tiffany & Co.,@TiffanyAndCo
+337,Gartner Inc.,@Gartner_inc
+338,Seagate Technology PLC,@Seagate
+339,Darden Restaurants Inc.,@darden
+340,W.W. Grainger Inc.,@grainger
+341,Baker Hughes Company,@bakerhughesco
+342,Genuine Parts Company ,@genuinepartsco
+343,Take-Two Interactive Software Inc.,
+344,Westinghouse Air Brake Technologies Corporation,@WabtecCorp
+345,Principal Financial Group Inc.,@principal
+346,UDR Inc.,@UDRMarketing
+347,Huntington Bancshares Incorporated,@Huntington_Bank
+348,Atmos Energy Corporation,@atmosenergy
+349,Alliant Energy Corp ,@alliantenergy
+350,Extra Space Storage Inc.,@extraspace
+351,Masco Corporation,@MASCOLMA
+352,Loews Corporation,@Loews_Hotels
+353,AmerisourceBergen Corporation,@Healthcare_ABC
+354,CenturyLink Inc. ,@CenturyLink
+355,Cboe Global Markets Inc. ,@CBOE
+356,AES Corporation,@TheAESCorp
+357,SVB Financial Group ,@SVB_Financial
+358,Fox Corporation ,@FOXTV
+359,Duke Realty Corporation,@DukeRealty
+360,Lamb Weston Holdings Inc.,
+361,Nasdaq Inc.,@Nasdaq
+362,Incyte Corporation,@Incyte
+363,Hasbro Inc. ,@Hasbro
+364,Zebra Technologies Corporation,@ZebraTechnology
+365,NVR Inc.,"@RyanHomes1948,@NVHomes1979"
+366,CenterPoint Energy Inc.,@energyinsights
+367,NetApp Inc. ,@NetApp
+368,Celanese Corporation,@celanese
+369,STERIS Plc,@STERIS
+370,MarketAxess Holdings Inc.,@MarketAxess
+371,Jacobs Engineering Group,@JacobsConnects
+372,Varian Medical Systems Inc.,@VarianMedSys
+373,Wynn Resorts Limited,
+374,DENTSPLY SIRONA Inc. ,@DentsplySirona
+375,Qorvo Inc. ,@QorvoInc
+376,IDEX Corporation,
+377,Hormel Foods Corporation,@HormelFoods
+378,Jack Henry & Associates,@JackHenryAssoc
+379,Allegion PLC,@AllegionPlc
+380,Seagate Technology PLC,@Seagate
+381,Arista Networks Inc.,@AristaNetworks
+382,Brown-Forman Corporation,@brownforman
+383,Expeditors International,@EXPD_Official
+384,J.M. Smucker Company,@smuckers
+385,Arconic Inc. ,@arconic
+386,Host Hotels & Resorts Inc.,
+387,Western Union Corporation,@WesternUnion
+388,PulteGroup Inc. ,@PulteHomes
+389,Lincoln National Corporation,@lincolnfingroup
+390,Diamondback Energy Inc.,
+391,American Airlines Group,@AmericanAir
+392,Everest Re Group Ltd.,@EverestIns
+393,Tractor Supply Company,@TractorSupply
+394,United Rentals Inc.,@UnitedRentals
+395,Avery Dennison Corporation,@AveryDennison
+396,Universal Health Services Inc.,@UHS_Inc
+397,Mylan N.V.,@MylanNews
+398,W. R. Berkley Corporation ,@WRBerkleyCorp
+399,Textron Inc. ,@Textron
+400,Norwegian Cruise Line,@CruiseNorwegian
+401,Huntington Ingalls Industries Inc.,@HIIndustries
+402,NiSource Inc.,@NiSourceInc
+403,Molson Coors Beverage Company,@MolsonCoors
+404,WestRock Company,@WestRock
+405,Vornado Realty Trust,@vornado
+406,PerkinElmer Inc.,@PerkinElmer
+407,Apache Corporation,@ApacheCorp
+408,Henry Schein Inc.,@HenrySchein
+409,Regency Centers Corporation ,@regencycenters
+410,Iron Mountain Inc.,@IronMountain
+411,C.H. Robinson Worldwide Inc.,@CHRobinson
+412,Advance Auto Parts Inc.,@AdvanceAuto
+413,Albemarle Corporation,@AlbemarleCorp
+414,Campbell Soup Company,@CampbellSoupCo
+415,Globe Life Inc.,@GlobeLife
+416,NRG Energy Inc.,@nrgenergy
+417,Packaging Corporation of America,@packagingcorp
+418,LKQ Corporation,@LKQCorp
+419,Federal Realty Investment Trust,@FederalRealty
+420,Fortune Brands Home & Security,@FBHS_News
+421,Discovery Inc.,@DiscoveryIncTV
+422,CF Industries Holdings Inc.,@CFIndustries
+423,J.B. Hunt Transport Services Inc.,@jbhunt360
+424,Eastman Chemical Company,@EastmanChemCo
+425,Snap-on Incorporated,@Snapon_Tools
+426,Interpublic group of companies Inc.,@InterpublicIPG
+427,Whirlpool Corporation,@WhirlpoolCorp
+428,Live Nation Entertainment,@LiveNation
+429,DISH Network Corporation,@dish
+430,DaVita Inc.,@DaVita
+431,Apartment Investment & Management Co,@AimcoApts
+432,Assurant Inc.,@Assurant
+433,Juniper Networks,@JuniperNetworks
+434,Perrigo Co. PLC,@PerrigoCompany
+435,Kimco Realty Corp.,@kimcorealty
+436,F5 Networks Inc.,@F5Networks
+437,Mohawk Industries Inc.,MohawkFlooring
+438,ABIOMED Inc.,@abiomedimpella
+439,Cabot Oil and Gas Corp.,@CabotOG
+440,SL Green Realty Corp.,@SLGreen
+441,Comerica Incorporated,@ComericaBank
+442,Pentair Plc,@Pentair
+443,Noble Energy Inc.,@nblenergy
+444,People’s United Financial Inc.,@PeoplesUnited
+445,Franklin Resources Inc.,@FTI_Global
+446,Zions Bancorporation N.A.,@ZionsBank
+447,Tapestry Inc.,@tapestryInc
+448,National Oilwell Varco Inc.,@NOVGlobal
+449,Xerox Holdings Corp.,@Xerox
+450,Borg Warner Inc.,@BorgWarner
+451,A. O. Smith Corporation,@AOSmithHotWater
+452,Norwegian Cruise Line Holdings Ltd.,@CruiseNorwegian
+453,Rollins Inc.,@RollinsPC
+454,Alaska Air Group Inc.,@AlaskaAir
+455,Newell Brands Inc,@newell_brands
+456,Robert half International Inc.,@roberthalf
+457,Kohl’s Corporation,@Kohls
+458,Nielsen Holdings Plc.,@nielsen
+459,FLIR Systems Inc.,@flir
+460,Quanta Services Inc.,@Quanta_Services
+461,Ralph Lauren Corporation,@RalphLauren
+462,L Brands Inc.,@L_Brands
+463,PVH Corp,@PVHCorp
+464,Invesco Ltd,@InvescoUS
+465,Sealed Air Corporation,@Sealed_Air
+466,Leggett & Platt Incorporated,
+467,Diamondback Energy Inc.,
+468,Mosaic Company,@MosaicCompany
+469,TechnipFMC Plc,@TechnipFMC
+470,Flowserve Corp,@Flowserve
+471,Unum Group,@unumnews
+472,HollyFrontier Corp.,
+473,Marathon Oil Corp.,@MarathonOil
+474,Devon Energy Corp.,@DevonEnergy
+475,Macy’s Inc.,@Macys
+476,Capri Holdings Limited,
+477,Nordstrom Inc.,@Nordstrom
+478,Gap Inc.,@GapInc
+479,Alliance Data Systems Corp.,@AllianceData
+480,Coty Inc.,@COTYInc
+481,Helmerich & Payne Inc.,@HelmerichPayne
+482,Under Armour Inc.,@UnderArmour
