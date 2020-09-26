@@ -22,7 +22,7 @@ The Tweet-IDs are organized as follows:
 
 •	We will keep a running summary of basic statistics as we upload data in each new release.
 
-•	The file accounts.txt contains the SP companies’ accounts that we tracked in our data collection. 
+•	The file SP500_companies.csv contains the SP500 company list and thier twitter account that we tracked in our data collection. 
 
 •	Consider using tools such as the Hydrator and Twarc to rehydrate the Tweet IDs. Instructions for both are in the next section.
 
