@@ -9,9 +9,9 @@ To comply with Twitter’s Terms of Service, we are only publicly releasing the 
 # Data Organization
 The Tweet-IDs are organized as follows:
 
-•	Tweet-ID files are stored in folders that indicate the year and month of the collection (YEAR-MONTH).
+•	Tweet-ID files are stored in folders that indicate the company's tweets or the company's recived comments.
 
-•	Individual Tweet-ID files contain a collection of Tweet IDs, and the file names all follow the same structure, with a prefix “SP500-tweet-id-” followed by the YEAR-MONTH-DATE-HOUR.
+•	Individual Tweet-ID files contain a collection of Screen Name and Tweet IDs, and the file names all follow the same structure, with a prefix “SP500-tweet-id-” followed by the YEAR-MONTH.
 
 •	Note that Twitter returns Tweets in UTC, and thus all Tweet ID folders and file names are all in UTC as well.
 
@@ -19,8 +19,6 @@ The Tweet-IDs are organized as follows:
 •	I will be continuously maintaining this database for the foreseeable future, and I will be uploading new data on a weekly basis.
 
 •	here may be a few hours of missing data due to technical difficulties. We have done our best to recover as many Tweets from those time frames by using Twitter’s search API.
-
-•	We will keep a running summary of basic statistics as we upload data in each new release.
 
 •	The file SP500_companies.csv contains the SP500 company list and thier twitter account that we tracked in our data collection. 
 
