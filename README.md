@@ -16,7 +16,7 @@ The Tweet-IDs are organized as follows:
 •	Note that Twitter returns Tweets in UTC, and thus all Tweet ID folders and file names are all in UTC as well.
 
 # Notes About the Data
-•	I will be continuously maintaining this database for the foreseeable future, and I will be uploading new data on a weekly basis.
+•	I will be continuously maintaining this database for the foreseeable future, and I will be uploading new data on a monthly basis.
 
 •	here may be a few hours of missing data due to technical difficulties. We have done our best to recover as many Tweets from those time frames by using Twitter’s search API.
 
